@@ -1,0 +1,7 @@
+Correlación anual PIB - Sentimiento:
+  Pearson: 0.5394
+  Spearman: 0.4048
+
+Correlación anual S&P500 - Sentimiento:
+  Pearson: 0.4623
+  Spearman: 0.4048

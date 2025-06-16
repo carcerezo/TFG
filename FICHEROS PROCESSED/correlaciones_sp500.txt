@@ -1,0 +1,2 @@
+Correlación de Pearson (mismo día): 0.3938
+Correlación de Spearman (mismo día): 0.4642

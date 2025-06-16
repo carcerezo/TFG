@@ -1,0 +1,2 @@
+Correlación de Pearson (trimestral): 0.4965
+Correlación de Spearman (trimestral): 0.4921
